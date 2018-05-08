@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FaceDetection.iml" filepath="$PROJECT_DIR$/FaceDetection.iml" />
+      <module fileurl="file://C:\Users\Chanj\Documents\GitHub\MobileVisionAPI\FaceDetection\FaceDetection.iml" filepath="C:\Users\Chanj\Documents\GitHub\MobileVisionAPI\FaceDetection\FaceDetection.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Chanj\Documents\GitHub\MobileVisionAPI\FaceDetection\app\app.iml" filepath="C:\Users\Chanj\Documents\GitHub\MobileVisionAPI\FaceDetection\app\app.iml" />
     </modules>
   </component>
 </project>
